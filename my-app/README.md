@@ -14,3 +14,6 @@ In the project directory, you can run:
 ### `npm install`
 ### `npm run start`
 
+Resources:
+1. Theme color provider: https://colorhunt.co/palette/213564
+2. Art font generator: https://supalogo.com/
